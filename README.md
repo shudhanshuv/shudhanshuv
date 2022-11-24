@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Shudhanshu Verma</h1>
+
 # 💫 About Me:
 😎I am a passionate frontend developer from India.<br>📩 Shoot me an Email or add me on Linkedin.<br><br>
 
